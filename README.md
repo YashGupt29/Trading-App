@@ -1,7 +1,5 @@
 # Food-Delivery-App-React-Native
 
-![Image](https://cdn.dribbble.com/userupload/6449325/file/original-29ac1c5702ff41e63010311547006bb4.png?compress=1&resize=1600x1200)
-
 ## Get Started
 
 install dev dependencies
@@ -29,5 +27,4 @@ Like `npm start` / `yarn start`, but also attempts to open your app in the iOS S
 #### `npm run android` or `yarn run android`
 
 Like `npm start` / `yarn start`, but also attempts to open your app on a connected Android device or emulator. Requires an installation of Android build tools (see [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html) for detailed setup).
-
 <br />
