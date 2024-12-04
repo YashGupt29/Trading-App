@@ -4,7 +4,7 @@ Welcome to the Trading App repository! This React Native application for the Tra
 
 ## Installation
 
-Before you begin, make sure you have Node.js and npm installed on your system.You have setup configuration  Setup (PREFER CHAPTER 1) 
+Before you begin, make sure you have Node.js and npm installed on your system.
 
 1. Clone this repository to your local machine:
 
@@ -20,7 +20,6 @@ Before you begin, make sure you have Node.js and npm installed on your system.Yo
 
 3. Change the `GOOGLE CLIENT ID` and `APPLE SIGN`:
 
-You can checkout the chapter 4,5,6 for configuration process of this or you can skip it if you dont want to setup
 
 
 ## Running the App
